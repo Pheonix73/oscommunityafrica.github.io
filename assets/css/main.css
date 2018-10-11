@@ -19,6 +19,9 @@ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockq
 	font: inherit;
 	vertical-align: baseline;
 }
+.white{
+	color:#fff;
+}
 
 article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
 	display: block;
@@ -3970,7 +3973,6 @@ footer {
 	text-decoration: none;
 }
 
-
 /* button fixes by nedy sunday 21:14 */
 .custom-btn{
 	border-radius: 15px!important;
@@ -4042,10 +4044,7 @@ footer {
 }
 /* button fixes end here */
 
-
 /*RESPONSIVE BUTTONS FOR MOBILE*/
-
-
 
 /*EXTRA SMALL DEVICES*/
 @media only screen and (max-width: 900px) {
